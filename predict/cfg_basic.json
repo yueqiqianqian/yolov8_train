@@ -1,0 +1,8 @@
+{
+  "grpc_server_addr": "0.0.0.0:7777",
+  "grpc_max_workers": 8,
+  "image_mode": "rgb",
+  "score_threshold": 0.3,
+  "iou_threshold": 0.45,
+  "input_size": 640
+}
